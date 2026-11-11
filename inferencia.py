@@ -1,7 +1,7 @@
 import pandas as pd
 from pickle import load
 
-nova_residencia_num = [[0.00737, 22.0, 7.31, 0.638, 5.785, 72.3, 10.02, 3, 244, 17.3, 396.9, 20.98, 27.0]]
+nova_residencia_num = [[0.00977, 28.0, 7.61, 0.500, 2.600, 80.3, 9, 7, 200, 17.3, 400.9, 28.98, 33.0]]
 
 nova_residencia_cat = [[1, 0]]
  
